@@ -1,0 +1,390 @@
+{
+  "quran": [
+    {
+      "id": "q1",
+      "ref": "Surah Al-Ahzab 33:33",
+      "title": "The Verse of Purification",
+      "text": "Allah only intends to remove from you the impurity, O people of the Prophet's household, and to purify you with a thorough purification.",
+      "lesson": "Known as Ayat al-Tathir. Revealed, according to the well-known account, while the Prophet gathered Ali, Fatima, Hasan, and Husayn under his cloak and prayed for their purification. Allah's intention to purify them is stated directly, addressed to them by name as 'the household.'",
+      "sources": ["Quran 33:33", "Sahih Muslim 2424", "Sahih al-Tirmidhi 3205", "Musnad Ahmad 6:292", "Tafsir al-Tabari"]
+    },
+    {
+      "id": "q2",
+      "ref": "Surah Ash-Shura 42:23",
+      "title": "The Reward Asked",
+      "text": "Say: I do not ask you for it any reward except the love for [my] relatives.",
+      "lesson": "The Prophet was told to ask nothing for delivering his message except love for his near ones. Early commentators identified those 'near ones' specifically as Ali, Fatima, Hasan, and Husayn — making love of the household a standing instruction inside the Quran's own text.",
+      "sources": ["Quran 42:23", "Tafsir al-Tabari", "Tafsir al-Mizan (Tabatabai)"]
+    },
+    {
+      "id": "q3",
+      "ref": "Surah Al-Insan 76:8-9",
+      "title": "Those Who Gave in Secret",
+      "text": "And they give food, in spite of their love for it, to the needy, the orphan, and the captive, saying: We feed you only for the sake of Allah; we desire no reward nor thanks from you.",
+      "lesson": "Traditionally connected to an account of the household giving away their only food for three days running to a poor man, an orphan, and a captive — fasting themselves each night. Generosity here is paired explicitly with seeking nothing in return, not even gratitude.",
+      "sources": ["Quran 76:8-9", "Tafsir al-Tabarsi", "Tafsir al-Qurtubi"]
+    },
+    {
+      "id": "q4",
+      "ref": "Surah Aal-E-Imran 3:103",
+      "title": "A Rope From Heaven to Earth",
+      "text": "And hold firmly to the rope of Allah all together and do not become divided.",
+      "lesson": "The Quran calls itself a 'rope' to be held onto collectively. This same image — a rope stretching from heaven to earth — reappears in the Prophet's own description of the Quran in Hadith al-Thaqalayn, tying the Quran section and the Ahl al-Bayt section of this app back to one root.",
+      "sources": ["Quran 3:103", "Tafsir al-Tabari"]
+    },
+    {
+      "id": "q5",
+      "ref": "Surah Ash-Sharh 94:5-6",
+      "title": "With Hardship Comes Ease",
+      "text": "So surely with hardship there is ease. Surely with hardship there is ease.",
+      "lesson": "Repeated twice for emphasis. Ease is not promised after hardship as a separate event — it is described as accompanying it, already present alongside the difficulty itself.",
+      "sources": ["Quran 94:5-6", "Tafsir al-Tabari"]
+    },
+    {
+      "id": "q6",
+      "ref": "Surah Al-Baqarah 2:153",
+      "title": "Patience and Prayer",
+      "text": "O you who believe, seek help through patience and prayer. Indeed, Allah is with the patient.",
+      "lesson": "Two tools are named together, not separately: patience and prayer. The verse closes with a direct promise — Allah's company is specifically with those who are patient.",
+      "sources": ["Quran 2:153", "Tafsir al-Tabari"]
+    },
+    {
+      "id": "q7",
+      "ref": "Surah Al-Baqarah 2:155-156",
+      "title": "Tested with Loss",
+      "text": "And We will surely test you with something of fear and hunger and a loss of wealth, lives, and fruits, but give good tidings to the patient — who, when struck by calamity, say: 'Indeed we belong to Allah, and indeed to Him we will return.'",
+      "lesson": "Trial is named as a certainty, not a possibility — 'We will surely test you.' The response prescribed is a specific phrase of return and belonging, not despair.",
+      "sources": ["Quran 2:155-156", "Tafsir al-Tabari"]
+    },
+    {
+      "id": "q8",
+      "ref": "Surah Al-Baqarah 2:286",
+      "title": "No Soul Burdened Beyond Its Capacity",
+      "text": "Allah does not burden a soul beyond what it can bear.",
+      "lesson": "A foundational verse on the proportion of trial to capacity — often cited as reassurance that whatever a person is going through, it has not been placed on them beyond what they are able to carry.",
+      "sources": ["Quran 2:286", "Tafsir al-Tabari"]
+    },
+    {
+      "id": "q9",
+      "ref": "Surah Al-Anfal 8:46",
+      "title": "Allah Is With the Patient",
+      "text": "And be patient. Indeed, Allah is with the patient.",
+      "lesson": "A short, direct verse — patience is again tied to divine companionship, not merely reward in the next life but presence in this one.",
+      "sources": ["Quran 8:46", "Tafsir al-Tabari"]
+    },
+    {
+      "id": "q10",
+      "ref": "Surah An-Nisa 4:135",
+      "title": "Stand Firm for Justice",
+      "text": "O you who believe, stand firmly for justice, as witnesses for Allah, even if it be against yourselves, your parents, or your relatives.",
+      "lesson": "Justice is demanded even when it costs the person delivering it — against their own interest, their own parents, their own family. The verse anticipates that justice is hardest precisely when it's closest to home.",
+      "sources": ["Quran 4:135", "Tafsir al-Tabari"]
+    },
+    {
+      "id": "q11",
+      "ref": "Surah Al-Ma'idah 5:8",
+      "title": "Do Not Let Hatred Lead You from Justice",
+      "text": "And do not let the hatred of a people prevent you from being just. Be just; that is nearer to righteousness.",
+      "lesson": "Justice is explicitly separated from feeling — you may dislike someone and still be required to treat them justly. The verse names justice, not affection, as what brings a person nearer to righteousness.",
+      "sources": ["Quran 5:8", "Tafsir al-Tabari"]
+    },
+    {
+      "id": "q12",
+      "ref": "Surah Al-An'am 6:152",
+      "title": "Speak Justly Even of Kin",
+      "text": "And when you speak, be just, even if it concerns a close relative.",
+      "lesson": "Justice extends even to speech about one's own family — not just formal rulings or trade, but the words used to describe people close to oneself.",
+      "sources": ["Quran 6:152", "Tafsir al-Tabari"]
+    },
+    {
+      "id": "q13",
+      "ref": "Surah Ar-Rahman 55:9",
+      "title": "Weigh with Justice",
+      "text": "And establish weight with justice and do not make deficient the balance.",
+      "lesson": "A verse from a chapter celebrating divine balance in creation applies that same balance to everyday trade — justice is something to be measured and weighed, not assumed.",
+      "sources": ["Quran 55:9", "Tafsir al-Tabari"]
+    },
+    {
+      "id": "q14",
+      "ref": "Surah Al-Hujurat 49:9",
+      "title": "Allah Loves the Just",
+      "text": "...and judge between them with justice and act equitably. Indeed, Allah loves those who act equitably.",
+      "lesson": "A simple, often-repeated reassurance: equitable conduct is not just permitted but specifically loved by Allah.",
+      "sources": ["Quran 49:9", "Tafsir al-Tabari"]
+    },
+    {
+      "id": "q15",
+      "ref": "Surah Al-Isra 17:23-24",
+      "title": "Kindness to Parents",
+      "text": "And your Lord has decreed that you not worship except Him, and to parents, good treatment... and lower to them the wing of humility out of mercy, and say: My Lord, have mercy upon them as they raised me when I was small.",
+      "lesson": "Kindness to parents is placed directly after the command to worship only Allah — paired, not separate. The image of 'lowering the wing' evokes gentleness, not mere obligation.",
+      "sources": ["Quran 17:23-24", "Tafsir al-Tabari"]
+    },
+    {
+      "id": "q16",
+      "ref": "Surah Al-Isra 17:23",
+      "title": "Speak Gently to Parents",
+      "text": "And do not say to them, 'uff,' and do not raise your voice to them, but speak to them in gentle terms.",
+      "lesson": "Even the smallest sound of irritation is named directly. The standard set is not just 'don't be cruel' but a specific instruction toward gentleness in tone.",
+      "sources": ["Quran 17:23", "Tafsir al-Tabari"]
+    },
+    {
+      "id": "q17",
+      "ref": "Surah An-Nisa 4:1",
+      "title": "Maintaining Ties of Kinship",
+      "text": "And fear Allah, through whom you ask one another, and the wombs [that bore you]. Indeed Allah is ever, over you, an Observer.",
+      "lesson": "Kinship ties (silat al-rahim) are placed alongside the fear of Allah Himself — maintaining family relationships is treated as something Allah watches closely.",
+      "sources": ["Quran 4:1", "Tafsir al-Tabari"]
+    },
+    {
+      "id": "q18",
+      "ref": "Surah Al-Baqarah 2:215",
+      "title": "Spend on Those Closest First",
+      "text": "They ask you what they should spend. Say: Whatever you spend of good is for parents, relatives, orphans, the needy, and the traveler.",
+      "lesson": "A clear order of priority for charity — beginning at home, with parents and relatives, before extending outward to strangers and travelers.",
+      "sources": ["Quran 2:215", "Tafsir al-Tabari"]
+    },
+    {
+      "id": "q19",
+      "ref": "Surah Al-Hujurat 49:13",
+      "title": "The Best Among You",
+      "text": "Indeed, the most noble of you in the sight of Allah is the most righteous of you.",
+      "lesson": "Nobility is redefined entirely — not lineage, wealth, or tribe, but conduct (taqwa) alone.",
+      "sources": ["Quran 49:13", "Tafsir al-Tabari"]
+    },
+    {
+      "id": "q20",
+      "ref": "Surah Az-Zumar 39:9",
+      "title": "Are They Equal, Those Who Know?",
+      "text": "Say: Are those who know equal to those who do not know? Only they will remember who are people of understanding.",
+      "lesson": "Knowledge and ignorance are placed in direct contrast, with the question left rhetorical — the answer assumed obvious.",
+      "sources": ["Quran 39:9", "Tafsir al-Tabari"]
+    },
+    {
+      "id": "q21",
+      "ref": "Surah Al-Alaq 96:1",
+      "title": "Read, In the Name of Your Lord",
+      "text": "Read, in the name of your Lord who created.",
+      "lesson": "Tradition holds this as the first revelation given to the Prophet — the very first instruction in the Quran is to read, anchoring knowledge at the foundation of the entire message.",
+      "sources": ["Quran 96:1", "Tafsir al-Tabari"]
+    },
+    {
+      "id": "q22",
+      "ref": "Surah Ta-Ha 20:114",
+      "title": "Increase Me in Knowledge",
+      "text": "...and say: My Lord, increase me in knowledge.",
+      "lesson": "A short prayer given directly to the Prophet to say — knowledge framed as something to keep asking for, not a fixed achievement.",
+      "sources": ["Quran 20:114", "Tafsir al-Tabari"]
+    },
+    {
+      "id": "q23",
+      "ref": "Surah Aal-E-Imran 3:190-191",
+      "title": "Reflection on Creation",
+      "text": "Indeed, in the creation of the heavens and the earth... are signs for people of understanding — who remember Allah while standing, sitting, and lying on their sides, and reflect upon the creation.",
+      "lesson": "Reflection (tafakkur) is paired with remembrance (dhikr) — not as separate practices but as something done together, in every posture of daily life.",
+      "sources": ["Quran 3:190-191", "Tafsir al-Tabari"]
+    },
+    {
+      "id": "q24",
+      "ref": "Surah Az-Zumar 39:18",
+      "title": "Is Not the Reminder For Those Who Remember?",
+      "text": "...so give good tidings to My servants, who listen to speech and follow the best of it. Those are the ones Allah has guided, and they are people of understanding.",
+      "lesson": "The standard set isn't just listening, but discernment — actively following what is best among what is heard.",
+      "sources": ["Quran 39:18", "Tafsir al-Tabari"]
+    }
+  ],
+  "ahlulbayt": [
+    {
+      "id": "a1",
+      "ref": "The Two Weighty Things",
+      "title": "Hadith al-Thaqalayn",
+      "text": "Verily, I am leaving among you the two weighty things — the Book of God, which is a rope stretched from heaven to earth, and my progeny, my Ahl al-Bayt. If you hold to both of them, you will never go astray. These two will never separate from each other until they meet me at the Pool of al-Kawthar.",
+      "lesson": "The source and namesake of this collection. Named by over thirty-five companions across more than a hundred chains of transmission — among the most widely attested statements of the Prophet. He names only two things as the means of never going astray after him.",
+      "sources": ["Sahih Muslim 31:5920", "Sunan al-Tirmidhi 3788", "Musnad Ahmad 10720", "Al-Kafi, Book of Virtue"]
+    },
+    {
+      "id": "a2",
+      "ref": "The Tradition of the Cloak",
+      "title": "Hadith al-Kisa",
+      "text": "The Prophet gathered Ali, Fatima, Hasan, and Husayn under his cloak and prayed: 'O Allah, these are my Ahl al-Bayt, so repel all impurity from them and purify them with a thorough purification.' The Verse of Purification was then revealed.",
+      "lesson": "This event is given as the occasion for the revelation of Surah Al-Ahzab 33:33. The household named here — Ali, Fatima, Hasan, and Husayn — are known afterward as Ahl al-Kisa, 'the people of the cloak.'",
+      "sources": ["Sahih Muslim 2424", "Sahih al-Tirmidhi 3205", "Musnad Ahmad 6:292", "Tafsir al-Qummi", "Al-Kafi"]
+    },
+    {
+      "id": "a3",
+      "ref": "On Fatima",
+      "title": "Fatima Is Part of Me",
+      "text": "Fatima is a part of me. Whoever angers her, angers me.",
+      "lesson": "A direct statement tying Fatima's wellbeing to the Prophet's own. He is also reported to have named her, alongside Khadijah, Maryam, and Asiya, among the best of women.",
+      "sources": ["Sahih al-Bukhari 3714", "Sahih Muslim, Book of the Merits of the Companions", "Al-Kafi, Book of Virtue"]
+    },
+    {
+      "id": "a4",
+      "ref": "On Fatima",
+      "title": "Chief of the Women of Paradise",
+      "text": "Before his death, the Prophet told Fatima: 'Will you not be pleased that you will be the chief of the believing women, or chief of the women of this nation?'",
+      "lesson": "Recounted by A'isha — the Prophet privately told Fatima two things, one which made her weep (his coming death) and one which made her laugh (this honor). It captures, in one moment, both his closeness to her and the rank he described for her.",
+      "sources": ["Sahih al-Bukhari 3624", "Sahih al-Bukhari 3715"]
+    },
+    {
+      "id": "a5",
+      "ref": "Imam Ali, to Malik al-Ashtar",
+      "title": "Justice Toward Yourself First",
+      "text": "Do justice for Allah and do justice towards the people, as against yourself, your near ones, and those of your subjects for whom you have a liking — because if you do not do so, you will be oppressive.",
+      "lesson": "From his instruction to Malik al-Ashtar before sending him to govern Egypt. Justice is demanded first against one's own preferences and closest relationships — the hardest direction to apply it.",
+      "sources": ["Nahj al-Balagha, Letter 53"]
+    },
+    {
+      "id": "a6",
+      "ref": "Imam Ali, to Malik al-Ashtar",
+      "title": "A Ruler Who Hides From People's Needs",
+      "text": "Any ruler who hides himself from people's needs, Allah will also hide Himself from him and his needs on the Day of Judgment; and if he accepts gifts, he would be a traitor; and if he accepts bribes, he would be a polytheist.",
+      "lesson": "A blunt warning to those in positions of authority — accessibility to the people one governs is treated as a direct, reciprocal condition with Allah's own accessibility to that ruler.",
+      "sources": ["Nahj al-Balagha, Letter 53"]
+    },
+    {
+      "id": "a7",
+      "ref": "Imam Ali, to a Governor",
+      "title": "Authority Is a Trust, Not a Gain",
+      "text": "Beware lest you consider this assignment as a bait for acquiring personal gain; rather, it is a trust lying upon your shoulders.",
+      "lesson": "Written to a governor under his rule — a clear redefinition of what political appointment actually is: not opportunity, but responsibility.",
+      "sources": ["Nahj al-Balagha, Letters (to the Governor of Adharbaijan)"]
+    },
+    {
+      "id": "a8",
+      "ref": "Imam Ali",
+      "title": "The Four Pillars of Justice",
+      "text": "Justice has four aspects: keen understanding, deep knowledge, a good power of decision, and firm forbearance. Whoever understands comes to acquire depth of knowledge; whoever acquires depth of knowledge drinks from the spring of wisdom.",
+      "lesson": "Justice is broken down here not as a single trait but a structure — understanding feeds knowledge, knowledge feeds wisdom, and only then does right decision-making follow.",
+      "sources": ["Nahj al-Balagha, Sayings"]
+    },
+    {
+      "id": "a9",
+      "ref": "Imam Ali, Sermon 224",
+      "title": "Spending the Night on Thorns",
+      "text": "By Allah, if I were to spend the night awake upon the thorns of the sa'dan plant... that would be dearer to me than to meet Allah and His Messenger on the Day of Judgment as one who has wronged any of His servants.",
+      "lesson": "Physical suffering, even something as specific and uncomfortable as sleeping on thorns, is described as preferable to the alternative of having wronged a single person.",
+      "sources": ["Nahj al-Balagha, Sermon 224"]
+    },
+    {
+      "id": "a10",
+      "ref": "Story of the Household",
+      "title": "Three Nights of Giving",
+      "text": "Ali, Fatima, Hasan, Husayn, and their maidservant Fidda gave away their only meal of the day, on three consecutive nights, to a poor man, an orphan, and a captive who came to their door — and fasted themselves each time.",
+      "lesson": "Traditionally given as the occasion for the revelation of Surah Al-Insan 76:8-9. The household's generosity here is paired with total discretion — they did not announce what they had done.",
+      "sources": ["Tafsir al-Tabarsi", "Tafsir al-Qurtubi", "Al-Kafi"]
+    },
+    {
+      "id": "a11",
+      "ref": "Story of the Household",
+      "title": "The Greeting Under the Cloak",
+      "text": "Hasan approached and asked, 'Grandfather, may I come under the cloak with you?' The Prophet replied, 'And upon you be peace, my son and the master of my fountain. Yes, you may enter.' Husayn then asked the same and was given the same welcome.",
+      "lesson": "Drawn from the fuller account of Hadith al-Kisa. Each member of the household asks permission before entering — even grandsons, even under the Prophet's own cloak — modeling courtesy and consent even within the closest of family bonds.",
+      "sources": ["Sahih Muslim 2424", "Al-Kafi", "Mafatih al-Jinan (recitation tradition)"]
+    },
+    {
+      "id": "a12",
+      "ref": "Story of the Household",
+      "title": "Inheritance and Sadaqa",
+      "text": "After the Prophet's passing, Fatima asked Abu Bakr for her share of the property left at Fadak. Abu Bakr told her he had heard the Prophet say a prophet's property is not inherited but is left as charity for the believers.",
+      "lesson": "A historically significant episode recorded directly in Sahih al-Bukhari — preserved without softening, showing Fatima's firm pursuit of what she believed was rightfully hers.",
+      "sources": ["Sahih al-Bukhari 3092", "Sahih al-Bukhari 4240"]
+    },
+    {
+      "id": "a13",
+      "ref": "Story of the Household",
+      "title": "The Secret That Made Her Weep, Then Laugh",
+      "text": "During his final illness, the Prophet told Fatima a secret privately, twice. The first made her weep; the second made her laugh. She later explained: the first was news of his coming death, the second was the honor of being chief among believing women.",
+      "lesson": "A'isha, who witnessed this exchange without understanding it at the time, later said: 'I never saw happiness so near to sadness as I saw that day.'",
+      "sources": ["Sahih al-Bukhari 3623", "Sahih al-Bukhari 3624", "Sahih al-Bukhari 3715"]
+    },
+    {
+      "id": "a14",
+      "ref": "Story of the Household",
+      "title": "Husayn at Karbala",
+      "text": "At Karbala, Husayn ibn Ali, grandson of the Prophet, was killed along with most of his family and companions after refusing to pledge allegiance to a ruler he held to be unjust.",
+      "lesson": "Karbala is remembered across the Muslim world as the clearest historical example of standing on principle against overwhelming force, whatever the cost. It is mourned every year in the month of Muharram.",
+      "sources": ["Tarikh al-Tabari", "Maqtal al-Husayn (Abu Mikhnaf)"]
+    },
+    {
+      "id": "a15",
+      "ref": "Imam Ali",
+      "title": "The Tongue's Disgrace",
+      "text": "He who is greedy is disgraced; he who discloses his hardship will always be humiliated; he who has no control over his tongue will often have to face discomfort.",
+      "lesson": "Three separate failures of restraint named together — greed, complaint, and unguarded speech — each carrying its own quiet cost.",
+      "sources": ["Nahj al-Balagha, Sayings"]
+    },
+    {
+      "id": "a16",
+      "ref": "Imam Ali",
+      "title": "Forming a Bad Opinion",
+      "text": "When a community is composed of honest, sober, and virtuous people, your forming a bad opinion about anyone of its members, when nothing wicked has been seen of him, is a great injustice to him.",
+      "lesson": "Suspicion itself is named as a form of injustice when there is no actual evidence behind it — a standard applied to private thoughts, not just public actions.",
+      "sources": ["Nahj al-Balagha, Sayings"]
+    },
+    {
+      "id": "a17",
+      "ref": "Imam Ali",
+      "title": "Wealth That Decreases by Giving",
+      "text": "Knowledge increases by spending it, while wealth decreases the more it is spent.",
+      "lesson": "A recurring theme in his sayings — that what depletes through generosity (wealth) is treated as lesser than what grows through generosity (knowledge, given freely to others).",
+      "sources": ["Nahj al-Balagha, Sayings", "Bihar al-Anwar"]
+    },
+    {
+      "id": "a18",
+      "ref": "Imam Ali",
+      "title": "During Civil Disturbance",
+      "text": "During civil disturbance, adopt such an attitude that people do not attach any importance to you — they neither burden you with complicated affairs, nor try to derive any advantage out of you.",
+      "lesson": "Practical counsel for navigating unstable times — neither seeking prominence nor inviting reliance during periods when judgment is most likely to be clouded by chaos.",
+      "sources": ["Nahj al-Balagha, Sayings (Saying 1)"]
+    },
+    {
+      "id": "a19",
+      "ref": "Imam Ali",
+      "title": "The Believer's Day",
+      "text": "A person's time is divided into portions: time set aside for worship, time for earning a livelihood, and time for permissible recreation — none of the three crowding out the others.",
+      "lesson": "Balance, not constant devotion alone, is presented as the model — a structured day that makes room for worship, work, and rest together.",
+      "sources": ["Bihar al-Anwar", "Al-Kafi"]
+    },
+    {
+      "id": "a20",
+      "ref": "Imam al-Sadiq",
+      "title": "On Difficult Knowledge",
+      "text": "Our hadith is difficult, and it becomes [more] difficult. No one is capable of bearing it except an angel brought near, a prophet who is also a messenger, or a believer whose heart Allah has tested for faith.",
+      "lesson": "A statement from Imam Ja'far al-Sadiq describing the weight of the household's teachings — not all of it is easy to receive, and what causes confusion in the heart is advised to be left rather than rejected outright.",
+      "sources": ["Al-Kafi, Book of Excellence of Knowledge"]
+    },
+    {
+      "id": "a21",
+      "ref": "Imam al-Baqir",
+      "title": "On Sincerity",
+      "text": "A little done with sincerity outweighs a great deal done without it.",
+      "lesson": "A recurring principle across the Imams' teachings: outward quantity of deeds is treated as secondary to the sincerity behind them.",
+      "sources": ["Al-Kafi, Book of Faith and Disbelief"]
+    },
+    {
+      "id": "a22",
+      "ref": "Imam Zayn al-Abidin",
+      "title": "The Sahifa Sajjadiyya",
+      "text": "Imam Ali ibn al-Husayn, known as al-Sajjad ('the one who constantly prostrates'), left behind a collection of fifty-four supplications covering everything from seeking forgiveness to praying for one's parents and neighbors.",
+      "lesson": "Known as 'the Psalms of the Household of Muhammad' for its literary and devotional depth — a model of turning daily concerns, however small, into direct address to Allah.",
+      "sources": ["Al-Sahifa al-Sajjadiyya"]
+    },
+    {
+      "id": "a23",
+      "ref": "Imam al-Sadiq",
+      "title": "On Good Company",
+      "text": "Test a person's religion through three things before trusting them deeply: how they pray, how they handle what is given into their trust, and how truthful they are in speech.",
+      "lesson": "Practical, observable measures — not claims a person makes about themselves, but conduct that can actually be seen over time.",
+      "sources": ["Bihar al-Anwar", "Al-Kafi"]
+    },
+    {
+      "id": "a24",
+      "ref": "Imam al-Kadhim",
+      "title": "On Patience",
+      "text": "Whoever is patient over a hardship for the sake of Allah, Allah will give him in exchange something better than what he lost.",
+      "lesson": "A teaching that closes this section the same way the Quran section opened on patience — affirming that the response asked of believers under hardship is consistent across both pillars of guidance.",
+      "sources": ["Bihar al-Anwar", "Al-Kafi, Book of Faith and Disbelief"]
+    }
+  ]
+}
